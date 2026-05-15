@@ -8,6 +8,16 @@
 - `git push`: upload commits to GitHub
 - `git pull`: download latest changes from GitHub
 
+## Good Commit Messages
+
+Use short messages that explain the purpose of the change.
+
+Examples:
+
+- `docs: add setup instructions`
+- `feat: add contact section`
+- `fix: correct broken link`
+
 ## Branch Commands
 
 - `git branch`: list branches
