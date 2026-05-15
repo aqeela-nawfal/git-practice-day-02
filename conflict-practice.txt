@@ -1,1 +1,1 @@
-This line was edited from the main branch.
+This line was resolved after practicing a merge conflict.
