@@ -4,7 +4,7 @@
 
 - 10 meaningful commits: done locally
 - 3 feature branches: done locally
-- 3 Pull Requests: pending GitHub repository creation
+- 3 Pull Requests: branches pushed to GitHub; open/merge in GitHub UI if required by mentor
 - Comprehensive `README.md`: done
 - Simple merge conflict practice: done locally
 
@@ -32,18 +32,17 @@ The local repository remote is configured as:
 git@github.com:aqeela-nawfal/git-practice-day-02.git
 ```
 
-Pushing failed because the repository does not exist on GitHub yet.
+Repository now exists and local work has been pushed.
 
-To finish the PDF Pull Request requirement:
+To finish the PDF Pull Request requirement in GitHub UI:
 
-1. Create a GitHub repository named `git-practice-day-02`.
-2. Run:
+1. Open:
 
-```powershell
-git push -u origin main feature/readme-improvements feature/html-structure feature/style-page
+```text
+https://github.com/aqeela-nawfal/git-practice-day-02
 ```
 
-3. Open 3 Pull Requests on GitHub:
+2. Check whether GitHub allows Pull Requests from these branches:
 
 ```text
 feature/readme-improvements -> main
@@ -51,4 +50,4 @@ feature/html-structure -> main
 feature/style-page -> main
 ```
 
-4. Merge all 3 Pull Requests.
+3. If GitHub says there are no changes to compare, it is because these branches were already merged locally before pushing. The merge commits are visible in Git history.
