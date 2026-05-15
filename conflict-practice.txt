@@ -1,1 +1,1 @@
-This line will be edited differently on two branches.
+This line was edited from the feature/conflict-one branch.
