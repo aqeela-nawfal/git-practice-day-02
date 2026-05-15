@@ -4,11 +4,13 @@ Goal: practice real Git workflow with commits, branches, pull requests, README w
 
 ## Checklist
 
-- [ ] Practice 10 meaningful commits with proper commit messages
-- [ ] Create 3 feature branches
+- [x] Practice 10 meaningful commits with proper commit messages
+- [x] Create 3 feature branches
 - [ ] Raise 3 Pull Requests and merge them
-- [ ] Write a comprehensive `README.md` with markdown formatting
-- [ ] Practice resolving a simple merge conflict
+- [x] Write a comprehensive `README.md` with markdown formatting
+- [x] Practice resolving a simple merge conflict
+
+Note: Pull Requests require the GitHub repository to exist online. The local repo is ready, but pushing failed because `aqeela-nawfal/git-practice-day-02` does not exist on GitHub yet.
 
 ## Practice Repository
 
