@@ -24,6 +24,18 @@ Recommended GitHub repository name:
 git-practice-day-02
 ```
 
+## Project Overview
+
+This repository is a small Git workflow lab. It is designed to prove that the Day 2 tasks were practiced with real files, real commits, and real branch history.
+
+The project contains:
+
+- A simple HTML page
+- A CSS stylesheet
+- Git notes
+- A merge conflict practice file
+- Command references for PowerShell
+
 ## Conventional Commit Examples
 
 Use messages like:
