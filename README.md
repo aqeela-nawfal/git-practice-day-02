@@ -53,6 +53,11 @@ fix: correct heading hierarchy
 docs: add learning summary
 ```
 
+## Repository Owner
+
+- GitHub username: `aqeela-nawfal`
+- Practice repository: `git-practice-day-02`
+
 ## Suggested 10 Commits
 
 1. Add project README title and overview
