@@ -78,6 +78,16 @@ git checkout -b feature/style-page
 
 Each branch should include at least one meaningful change and one commit.
 
+## Completion Evidence
+
+When this task is finished, keep these as evidence:
+
+- `git log --oneline` screenshot or copied output
+- GitHub repository link
+- Pull Request links
+- Final `README.md`
+- Merge conflict resolution commit
+
 ## Pull Request Flow
 
 For each feature branch:
